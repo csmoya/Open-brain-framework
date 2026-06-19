@@ -1,0 +1,11 @@
+title: Open Brain Framework
+description: A structured knowledge management system for knowledge workers who use Obsidian and want their vault to work at scale.
+baseurl: ""
+url: "https://openbrain.tech"
+theme: just-the-docs
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "openbrain.tech": "https://openbrain.tech"
+footer_content: "Open Brain Framework by <a href='https://openbrain.tech'>Carlos Moya</a>. Distributed under MIT License."
