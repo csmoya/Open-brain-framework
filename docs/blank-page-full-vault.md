@@ -13,6 +13,8 @@ You have 1,000 notes. You sit down to write. The blank document doesn't get less
 
 You know your notes are there. You could open the vault and search for something relevant. But you don't know what to say. The search results are interesting but don't organize themselves into an argument. You copy a few quotes into the document. You write a sentence or two. An hour later, you have a paragraph that doesn't feel like yours — it's a slightly reorganized version of what your sources already said.
 
+Tiago Forte's central insight in *Building a Second Brain* was that the purpose of a personal knowledge system is expression — notes without output are organized procrastination. He was right. This document addresses the follow-on problem: what happens when you've accepted that premise, built a full vault, and still can't write. The vault exists. The expression step still doesn't happen. Forte's system solved capture; the problem here is the bridge between stored knowledge and produced argument.
+
 This is the failure mode of a knowledge system that optimized for capture without building an output layer. The vault is full of things you've read, thought about, and found interesting. It has almost no machinery for turning that captured knowledge into a specific, defensible claim you couldn't have made before you built the vault.
 
 The blank page problem with a full vault is more demoralizing than the blank page with nothing — because you can see the resources and still can't use them. The implicit promise of PKM ("capture everything and you'll be able to think better") has not been fulfilled, and you've invested months in the system. The problem isn't the quantity of notes. It's that notes organized by source or topic don't automatically generate positions.
@@ -85,3 +87,4 @@ Before any significant writing session, explicitly query the vault for relevant 
 - [Writing Without Evidence](writing-without-evidence.md) — a closely related failure: writing about studied topics without actually using what you studied
 - [Single-Perspective Blindness](single-perspective-blindness.md) — once you have a draft, this explains why you can't evaluate it yourself
 - [Knowledge-Grounded Output](knowledge-grounded-output.md) — the systematic solution to the blank page problem
+- [Where Open Brain Fits in the PKM Landscape](pkm-genealogy.md) — Forte's expression-first insight and the problem it leaves open

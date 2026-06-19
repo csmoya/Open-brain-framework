@@ -13,6 +13,8 @@ You have 200 Literature Notes. Some of them are excellent: precise, well-analyze
 
 This is not an extraction failure. You extracted carefully. It's a synthesis failure — specifically, the absence of a mechanism for detecting when multiple independent sources are converging on the same underlying claim. Without that mechanism, your vault is a library of other people's positions, not a map of your own.
 
+The Zettelkasten tradition — Luhmann's practice, as interpreted by Ahrens and extended by Matuschak — identified emergence as the system's core value: the most useful insights aren't the ones you wrote, they're the ones the network of connected notes reveals over time. Convergence detection is Open Brain's operationalization of that intuition. Instead of waiting for emergence to happen organically, it gives you a specific test for recognizing when independent sources are agreeing on something — and treats that agreement as a promotion signal rather than a coincidence to notice and forget.
+
 Convergence detection is the missing step. It's the process of scanning your Literature Notes for instances where two or more independent sources are making the same structural claim — and recognizing that alignment as a signal worth acting on.
 
 ---
@@ -95,3 +97,4 @@ When a cluster passes the test, that's your signal. Not to copy the notes togeth
 - [Premature Synthesis: Building on Thin Evidence](premature-synthesis.md)
 - [The Literature Note Graveyard](literature-note-graveyard.md)
 - [Convergence-Based Promotion](convergence-promotion.md)
+- [Where Open Brain Fits in the PKM Landscape](pkm-genealogy.md) — Zettelkasten's emergence logic and how convergence detection operationalizes it

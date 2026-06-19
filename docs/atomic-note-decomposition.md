@@ -13,6 +13,8 @@ You've finished a book and you're extracting notes. You create a note called "Ch
 
 Six months later, you search for "feedback loops" and find this note. You read it again. It still makes sense. But when you try to connect it to something else in your vault — a concept from a different book about the same mechanism — you can't. The notes don't link cleanly. They're the right size for reading, but the wrong size for thinking.
 
+Atomicity — one idea per note — is one of Niklas Luhmann's core contributions. Each slip in his Zettelkasten contained exactly one claim and could link to any other slip precisely because it didn't entangle multiple ideas. Sönke Ahrens codified this in *How to Take Smart Notes*. The decomposition problem this document addresses is the practical challenge of applying their principle to real extraction work, where sources don't arrive pre-atomized and the temptation to capture in chapters rather than claims is constant.
+
 This is the **granularity problem**: extracting notes at the wrong unit of analysis. Too broad, and notes become chapter summaries that can't be connected, cited, or reused as discrete building blocks. Too granular, and you're transcribing rather than thinking, and the vault fills with decontextualized fragments. Getting granularity right is the hardest skill in knowledge extraction — and the one with the highest downstream impact, because every other operation (linking, synthesis, retrieval) depends on the quality of the atoms.
 
 ---
@@ -79,3 +81,4 @@ When in doubt, split. If a note contains two distinct ideas that could each stan
 - [The Re-reading Trap: When Your Notes Fail as References](re-reading-trap.md) — poor granularity is a leading cause of re-reading
 - [The Extraction Pipeline: Ingest → Index → Extract](extraction-pipeline.md) — how the extraction layers fit into the full pipeline
 - [The Literature Note Graveyard](literature-note-graveyard.md) — poorly decomposed notes rarely mature into permanent knowledge
+- [Where Open Brain Fits in the PKM Landscape](pkm-genealogy.md) — Luhmann's atomicity principle and what Open Brain adds to it

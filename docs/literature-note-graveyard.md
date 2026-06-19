@@ -13,6 +13,8 @@ You have 500 notes. They came from 20 books, 60 articles, and 4 courses. They're
 
 This is the **literature note graveyard**: a vault that has grown in volume without growing in understanding. The notes exist. The thinking doesn't. Every note is a tombstone: it marks where you encountered an idea, but the idea never came alive in your own thinking.
 
+The name "Literature Note" comes from Sönke Ahrens' *How to Take Smart Notes*, his interpretation of Niklas Luhmann's Zettelkasten. Ahrens' contribution was naming the distinction: a Literature Note records what a source says; a Permanent Note expresses what you believe. Open Brain inherits that distinction completely. The graveyard problem is what happens when the first type accumulates without the second ever being written.
+
 The graveyard is particularly insidious because it mimics competence. You feel like you know things because you have notes about them. You feel productive because you're regularly adding notes. But the measure of a knowledge system is not how many notes it contains — it's how many original positions it has produced. A vault of 5,000 literature notes with zero permanent insights is a well-organized graveyard.
 
 ---
@@ -74,3 +76,4 @@ Maintain a deliberate distinction between two kinds of notes: notes that record 
 - [Domain Blindness: Not Knowing What You Know](domain-blindness.md) — graveyard vaults produce domain blindness
 - [The Maturation Ladder: From Captured to Owned](maturation-ladder.md) — the full progression from literature note to permanent claim
 - [Atomic Note Decomposition: Getting the Granularity Right](atomic-note-decomposition.md) — poorly granulated notes are harder to promote
+- [Where Open Brain Fits in the PKM Landscape](pkm-genealogy.md) — how the LN/PN distinction from Ahrens and Luhmann is extended here

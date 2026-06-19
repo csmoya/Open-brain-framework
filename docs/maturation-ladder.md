@@ -14,6 +14,8 @@ The maturation ladder is the progression an idea travels through your knowledge 
 
 The ladder exists because knowledge maturation is not a continuous spectrum — it has distinct thresholds. The difference between Rung 1 and Rung 4 is not a matter of degree; it's a matter of kind. A literature note is not a weak version of a permanent note. It's a fundamentally different object: it records what someone said, while a permanent note expresses what you believe, supported by evidence. The ladder makes these thresholds explicit and gives you a way to see where your vault's notes are piled up.
 
+The distinction between Literature Notes and Permanent Notes was formalized by Sönke Ahrens building on Niklas Luhmann's original Zettelkasten practice. Andy Matuschak extended this with the concept of Evergreen Notes — notes designed to develop over time rather than remain static captures. The maturation ladder is built directly on their foundation: it operationalizes the LN → PN threshold with explicit criteria, a convergence requirement at Rung 3, and an AI-grounded challenge phase at Rung 4 that none of the predecessor frameworks address.
+
 In most PKM systems, the pile is at Rung 1. Notes accumulate. Nothing moves. The maturation ladder is a prescription for moving ideas through the system rather than letting them accumulate at the first rung indefinitely.
 
 ---
@@ -131,3 +133,4 @@ A claim that meets criteria 1 and 2 but not 3 — where different sources claim 
 - [Premature Synthesis: Building on Thin Evidence](premature-synthesis.md) — what happens when promotion skips to Rung 4 without evidence
 - [Domain Blindness: Not Knowing What You Know](domain-blindness.md) — what Rung 5 domain synthesis solves
 - [The Extraction Pipeline: Ingest → Index → Extract](extraction-pipeline.md) — what feeds the bottom of the ladder
+- [Where Open Brain Fits in the PKM Landscape](pkm-genealogy.md) — how this ladder extends Ahrens, Matuschak, and the Zettelkasten tradition

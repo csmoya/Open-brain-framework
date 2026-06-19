@@ -14,6 +14,8 @@ You have a folder of 20 PDFs you meant to process. A Kindle library with 5 books
 
 This is **source overwhelm**: the state where your capture rate permanently outpaces your processing rate, and the gap between "saved" and "understood" keeps widening. The pile doesn't feel like a problem until you notice you haven't actually produced a single note in three weeks — and the queue is longer than when you started.
 
+Tiago Forte's CODE method (Capture, Organise, Distill, Express) put the importance of systematic capture on the map. The problem it described was real: knowledge workers were losing things they'd read, failing to connect insights across sources, and starting from scratch on topics they'd already studied. Source overwhelm is what happens in the other direction — when capture runs without the extraction engine that should follow it. Forte's contribution made the inbox necessary; this document addresses what happens when the inbox is all you build.
+
 The trap is subtle because capturing feels productive. You found something worth reading. You saved it. The system registered an action. But saving is not learning, and an unprocessed source is not knowledge — it's a promise you haven't kept yet. A knowledge system full of unprocessed sources is not a knowledge system. It's an anxiety system.
 
 ---
@@ -76,3 +78,4 @@ A source that has sat unprocessed for more than 60 days almost certainly belongs
 - [Atomic Note Decomposition: Getting the Granularity Right](atomic-note-decomposition.md) — once you start extracting, this problem hits next
 - [The Re-reading Trap: When Your Notes Fail as References](re-reading-trap.md) — what happens when extraction is incomplete
 - [The Extraction Pipeline: Ingest → Index → Extract](extraction-pipeline.md) — the full system that prevents overwhelm from recurring
+- [Where Open Brain Fits in the PKM Landscape](pkm-genealogy.md) — Forte's CODE/PARA contribution and where Open Brain diverges
